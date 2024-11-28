@@ -91,7 +91,7 @@
             </div>
         </div>
         <div class="footer">
-            <p>Made with ❤️ by GOTEZ254</p>
+            <p>Made with 🖤 by GOTEZ254</p>
             <p>Hosted on GitHub and Netlify</p>
             <p>Designed in Figma</p>
         </div>
